@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on [Phantom-Link](https://github.com/rikaari/BLEmasterslave-ProximtyAdvertising-master.git)
 - 🌱 I’m currently learning **Python, C#, Java, HTML, CSS, and JavaScript**
 - 💼 I have experience in **Web Development** and **Mobile Applications**
-- 🌍 I’m passionate about **Open Source** contributions
+- 🌍 I’m passionate about **Everything**, coding is **Life**.
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
