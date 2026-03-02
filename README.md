@@ -24,7 +24,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/regan-ntwari/" target="_blank">LinkedIn</a> • 
     <a href="https://twitter.com/yourprofile" target="_blank">Twitter</a> • 
-    <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+    <a href="https://rikaari.me" target="_blank">Portfolio</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
